@@ -154,5 +154,3 @@ Contributions are welcome! Please submit a pull request or open an issue if you 
 This project is licensed under the MIT License.
 
 ---
-
-Do yu want me to do that next?
